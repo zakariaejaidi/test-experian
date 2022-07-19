@@ -1,0 +1,11 @@
+{
+    "repositories": [
+        {
+            "url": "https://github.com/zakariaejaidi/cosumer-credit-profile-sandbox",
+            "type": "git"
+        }
+    ],
+    "require": {
+        "zakariaejaidi/cosumer-credit-profile-sandbox": "*@dev"
+    }
+}
